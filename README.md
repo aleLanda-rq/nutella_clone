@@ -1,1 +1,2 @@
-# idk
+to start "bin/rails server"
+
